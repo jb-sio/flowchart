@@ -1,9 +1,147 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="jhgn1ZqcE4cWRZx2TYcJ">
-    <mxGraphModel>
+    <mxGraphModel dx="1173" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q_QNVG-bk01GattWlyIQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-4" target="q_QNVG-bk01GattWlyIQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-4" value="Get&#39;s the payment details with id:1 from the user&#39;s model from accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-6" value="&lt;b&gt;Payments&lt;/b&gt;&lt;div style=&quot;line-height: 170%;&quot;&gt;1. Church id:1&lt;/div&gt;&lt;div style=&quot;line-height: 170%;&quot;&gt;2. Church id:2&lt;/div&gt;&lt;div style=&quot;line-height: 170%;&quot;&gt;3. Quest id:3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;These payments will be listed in the app&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1090" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;John&#39;s Account&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1050" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="1143" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-10" target="q_QNVG-bk01GattWlyIQ-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="1173" />
+              <mxPoint x="1410" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="1164" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-11" target="q_QNVG-bk01GattWlyIQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1461" y="1185" width="80" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850.9999999999998" y="1283" as="sourcePoint" />
+            <mxPoint x="1542" y="1155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1861" y="1283" />
+              <mxPoint x="1861" y="1233" />
+              <mxPoint x="1581" y="1233" />
+              <mxPoint x="1581" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1240" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1590" y="1120" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-16" value="&lt;div&gt;{&quot;id&quot;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;1&quot;:{&quot;amount&quot;:12.99},&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;2&quot;:{&quot;amount&quot;:9.99},&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;3&quot;:{&quot;amount&quot;:19.69}&lt;/div&gt;&lt;div&gt;}}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q_QNVG-bk01GattWlyIQ-20">
+          <mxGeometry y="10" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-17" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;models/user/payments&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q_QNVG-bk01GattWlyIQ-20">
+          <mxGeometry width="85" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-9" target="q_QNVG-bk01GattWlyIQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1443.31" y="1149.36" as="sourcePoint" />
+            <mxPoint x="1540.9899999999996" y="1259.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1402" y="1152" />
+              <mxPoint x="1402" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-22" value="{&quot;data&quot;:&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;amount&quot;:12.99,&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;token&quot;:&quot;euh...&quot;,&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-23" value="Stripe server gets this data, gets the uid fro the token and looks up the cus id and with the amount creates the url and sets back" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="1249.5" width="190" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-25" target="q_QNVG-bk01GattWlyIQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-25" value="Get&#39;s the payment details with id:2 from the user&#39;s model from accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850.9999999999998" y="1403" as="sourcePoint" />
+            <mxPoint x="1542" y="1176" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1871" y="1403" />
+              <mxPoint x="1871" y="1222" />
+              <mxPoint x="1571" y="1222" />
+              <mxPoint x="1571" y="1176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1360" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-27" value="{&quot;data&quot;:&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;amount&quot;:9.99,&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;token&quot;:&quot;euh...&quot;,&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-28" value="Stripe server gets this data, gets the uid fro the token and looks up the cus id and with the amount creates the url and sets back" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="1369.5" width="190" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="q_QNVG-bk01GattWlyIQ-30" target="q_QNVG-bk01GattWlyIQ-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-30" value="Get&#39;s the payment details with id:3 from the user&#39;s model from accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850.9999999999998" y="1523" as="sourcePoint" />
+            <mxPoint x="1542" y="1197" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1881" y="1523" />
+              <mxPoint x="1881" y="1211" />
+              <mxPoint x="1551" y="1211" />
+              <mxPoint x="1551" y="1197" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="1480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-32" value="{&quot;data&quot;:&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;amount&quot;:19,69,&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&quot;token&quot;:&quot;euh...&quot;,&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="1565" y="1480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-33" value="Stripe server gets this data, gets the uid fro the token and looks up the cus id and with the amount creates the url and sets back" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="1489.5" width="190" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-38" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;{&quot;url&quot;:&quot;https:stripe.com/?a=12.99&amp;amp;cus=cus_GH4&quot;}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1727" y="1223" width="137" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-42" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;{&quot;url&quot;:&quot;https:stripe.com/?a=9.99&amp;amp;cus=cus_GH4&quot;}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1737" y="1212" width="140" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="q_QNVG-bk01GattWlyIQ-44" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;{&quot;url&quot;:&quot;https:stripe.com/?a=19.69&amp;amp;cus=cus_GH4&quot;}&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="1201" width="140" height="7" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
